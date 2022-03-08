@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Blenish
 - 👀 I’m a software developer and also am into graphics design.
 - 💞️ I’m looking to collaborate with my fellow coliquies
-- 📫 How to reach: you can reach me via my email - igatiusagiah@gmail.com
+- 📫 How to reach: you can reach me via my email - ignatiusagiah@gmail.com
 - I can develop a website or design any graphics of yor choice
 
 <!---
